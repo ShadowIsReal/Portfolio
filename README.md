@@ -14,7 +14,7 @@ Summary:
   ///
   
   Main Qualities:
-    Experience in making anti-cheats in Luau
+    Experience in making anti-cheats in Luau,
     Experience with backend in Luau
   ///
 
@@ -24,9 +24,9 @@ Summary:
   ///
   
   Languages I know the basics of:
-    Javascript/Typescript
-    Python
-    Rust
+    Javascript/Typescript,
+    Python,
+    Rust,
 
   ///
   
