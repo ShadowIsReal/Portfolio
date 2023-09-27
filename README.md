@@ -35,7 +35,7 @@ Summary:
   ///
 
   List of detections I've made:
-    Lag Switch Detection, -- server-side
+    Lag Switch Detection, -- server-side\n
     Tab Glitch Detection, -- server-side
     Tween Detection, -- server-side
     Execution Detectiobn, -- client-side
