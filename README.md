@@ -35,17 +35,11 @@ Summary:
   ///
 
   List of detections I've made:
-    Lag Switch Detection, -- server-side
-    /
-    Tab Glitch Detection, -- server-side
-    /
-    Tween Detection, -- server-side
-    /
-    Execution Detectiobn, -- client-side
-    /
-    Injection Detection (Not Auto-Attach), -- client-side
-    /
-    Exploit UI Detection, -- client-side
-    /
-    Hook Detection, -- client-side
+    Lag Switch Detection, -- server-side  
+    Tab Glitch Detection, -- server-side  
+    Tween Detection, -- server-side  
+    Execution Detectiobn, -- client-side  
+    Injection Detection (Not Auto-Attach), -- client-side  
+    Exploit UI Detection, -- client-side  
+    Hook Detection, -- client-side  
   
