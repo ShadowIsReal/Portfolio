@@ -16,6 +16,7 @@ Summary:
   Main Qualities:
     Experience in making anti-cheats in Luau,
     Experience with backend in Luau
+    
   ///
 
   Languages I know:
