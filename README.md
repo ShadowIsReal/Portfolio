@@ -43,12 +43,12 @@ Summary:
     Execution Detectiobn, -- client-side  
     
     Injection Detection (Not Auto-Attach), -- client-side
-
-  List of contributions I've made: 
-
-    Contributed to Alpha KillStreak( https://www.roblox.com/games/12611565148/INT-GLOVE-Alpha-Killstreak )
     
     Exploit UI Detection, -- client-side  
     
     Hook Detection, -- client-side  
   
+
+  List of contributions I've made: 
+
+    Contributed to Alpha KillStreak( https://www.roblox.com/games/12611565148/INT-GLOVE-Alpha-Killstreak )
