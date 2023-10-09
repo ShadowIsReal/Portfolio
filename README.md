@@ -11,12 +11,13 @@ Summary:
   Currently Working On:
   
     Personal Project Called Catalyst Admin (been working on for about a week now)
+    Head Developer for in development game duel city
   
   Main Qualities:
   
     Experience in making anti-cheats in Luau,
     Experience with backend in Luau
-    
+    Experience in making admin systems
 
   Languages I know:
   
@@ -27,6 +28,7 @@ Summary:
     Javascript/Typescript,
     Python,
     Rust,
+    C++
   
   Languages I am learning:
   
