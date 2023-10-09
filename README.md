@@ -54,5 +54,6 @@ Summary:
   List of contributions I've made: 
 
     Contributed to [Alpha KillStreak](https://www.roblox.com/games/12611565148/INT-GLOVE-Alpha-Killstreak)
+    Contributed to Kizuki (Still in dev)
 
 [anti-cheat example place](https://www.roblox.com/games/14540829890/Untitled-AC)
