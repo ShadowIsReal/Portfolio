@@ -13,6 +13,7 @@ Summary:
     Personal Project Called Catalyst Admin (been working on for about a week now),
     Head Developer for in development game duel city
     Learning Reverse Engineering for smelly malware
+    Working on Luau module to guard remotes from exploiters
   
   Main Qualities:
   
