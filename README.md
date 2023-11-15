@@ -44,7 +44,7 @@ Summary:
     
     Tween Detection, -- server-side  
     
-    Execution Detectiobn, -- client-side  
+    Execution Detection, -- client-side  
     
     Injection Detection (Not Auto-Attach), -- client-side
     
