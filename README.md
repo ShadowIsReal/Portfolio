@@ -23,7 +23,7 @@ Summary:
 
   Languages I know:
   
-    Lua/Luau
+    Lua/Luau ( Been learning for 2+ years)
   
   Languages I know the basics of:
   
