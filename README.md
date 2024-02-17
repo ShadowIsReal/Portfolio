@@ -2,8 +2,8 @@
 
 If you're reading this then then you're likely looking to hire me or to check out my capabilities.
 
-Hello, I'm Shadow, 
-I'm a big cyber security fan
+Hello I'm Shadow, 
+I'm a big cyber security fan who is extremely passionate about programming with a wide variety of languages, I strive for the most optimized and efficient code I can write and I'm always up for a challenge.
 
 
 Summary: 
