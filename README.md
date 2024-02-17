@@ -11,7 +11,6 @@ Summary:
   Currently Working On:
   
     Personal Project Called Catalyst Admin (been working on for about a week now),
-    Head Developer for in development game duel city
     Learning Reverse Engineering for smelly malware
     Working on Luau module to guard remotes from exploiters
   
@@ -55,7 +54,7 @@ Summary:
 
   List of contributions I've made: 
 
-    Contributed to [Alpha KillStreak](https://www.roblox.com/games/12611565148/INT-GLOVE-Alpha-Killstreak)
+    Contributed to Alpha Killstreak (https://www.roblox.com/games/15233059847)
     Contributed to Kizuki (Still in dev)
 
 [anti-cheat example place](https://www.roblox.com/games/14540829890/Untitled-AC) (may have broken it I'll have to publish updates in a few days after more optmization)
