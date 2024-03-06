@@ -10,10 +10,9 @@ Summary:
 
   Currently Working On:
   
-    Personal Project Called Catalyst Admin (been working on for about a week now),
+    Personal Project Called Catalyst Admin (currently on hold),
     Learning Reverse Engineering for smelly malware
-    Working on Luau module to guard remotes from exploiters
-  
+
   Main Qualities:
   
     Experience in making anti-cheats in Luau,
