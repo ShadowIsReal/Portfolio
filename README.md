@@ -55,5 +55,3 @@ Summary:
 
     Contributed to Alpha Killstreak (https://www.roblox.com/games/15233059847)
     Contributed to Kizuki (Still in dev)
-
-[anti-cheat example place](https://www.roblox.com/games/14540829890/Untitled-AC) (may have broken it I'll have to publish updates in a few days after more optmization)
