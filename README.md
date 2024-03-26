@@ -16,18 +16,16 @@ Summary:
   Main Qualities:
   
     Experience in making anti-cheats in Luau,
-    Experience with backend in Luau,
+    Experience with general backend in Luau,
     Experience in making admin systems
 
   Languages I know:
   
-    Lua/Luau ( Been learning for 2+ years)
+    Lua/Luau ( Been learning for 3+ years)
   
   Languages I know the basics of:
   
-    Javascript/Typescript,
     Python,
-    Rust,
     C++
   
   Languages I am learning:
@@ -55,3 +53,5 @@ Summary:
 
     Contributed to Alpha Killstreak (https://www.roblox.com/games/15233059847)
     Contributed to Kizuki (Still in dev)
+
+  
