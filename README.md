@@ -22,14 +22,15 @@ Summary:
   Languages I know:
   
     Lua/Luau ( Been learning for 3+ years)
+    C++ ( Roughly 4 months )
   
   Languages I know the basics of:
   
     Python,
-    C++
   
   Languages I am learning:
-  
+
+    Luau
     C++
 
   List of detections I've made:
