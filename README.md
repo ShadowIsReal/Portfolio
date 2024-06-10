@@ -17,7 +17,7 @@ Summary:
   
     Experience in making anti-cheats in Luau,
     Experience with general backend in Luau,
-    Experience in making admin systems
+    Experience in making admin/moderation systems
 
   Languages I know:
   
