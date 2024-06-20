@@ -13,7 +13,7 @@ I'm a big cyber security fan who is extremely passionate about programming in a 
   Main Qualities:
   
     Experience in making anti-cheats in Luau,
-    Experience with general backend in Luau,
+    Experienced in writing backend and frontend code,
     Experience in making admin/moderation systems
 
   Languages I know:
